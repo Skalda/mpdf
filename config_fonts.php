@@ -140,6 +140,19 @@ $this->fontdata = array(
 		'I' => "FreeMonoOblique.ttf",
 		'BI' => "FreeMonoBoldOblique.ttf",
 		),
+	"amaticsc" => array(
+		'R' => "AmaticSC-Regular.ttf",
+		'B' => "AmaticSC-Bold.ttf",
+	),
+	"anton" => array(
+		'R' => "Anton.ttf",
+	),
+	"berkshireswash" => array(
+		'R' => "BerkshireSwash-Regular.ttf",
+	),
+	"grandhotel" => array(
+		'R' => "GrandHotel-Regular.ttf",
+	),
 
 
 /* OCR-B font for Barcodes */
